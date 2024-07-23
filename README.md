@@ -6,7 +6,7 @@ This Repository is contianed related to Bounty - Inspecting On-Chain Functions I
 
 - **Protocol Name:** Centrifuge
 - **Category:** RWA Tokenization
-- **Smart:** ERC20 (Centrifuge Token Contract)
+- **Smart Contract:** ERC20 (Centrifuge Token Contract)
 
 ## Function Analysis
 
